@@ -1,6 +1,3 @@
-
-from crypt import methods
-from pdb import post_mortem
 import numpy as np
 from flask import Flask,request,render_template
 import pandas as pd 
